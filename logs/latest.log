@@ -1,0 +1,315 @@
+[11:52:30] [ServerMain/INFO]: Building unoptimized datafixer
+[11:52:31] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11:52:33] [ServerMain/INFO]: Loaded 7 recipes
+[11:52:34] [ServerMain/INFO]: Loaded 1179 advancements
+[11:52:35] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[11:52:35] [Server thread/INFO]: Loading properties
+[11:52:35] [Server thread/INFO]: Default game type: SURVIVAL
+[11:52:35] [Server thread/INFO]: Generating keypair
+[11:52:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:52:35] [Server thread/INFO]: Using epoll channel type
+[11:52:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:52:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:52:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:52:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:52:35] [Server thread/INFO]: Preparing level "world"
+[11:52:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:52:54] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[11:52:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:52:55] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[11:52:55] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[11:52:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:52:56] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[11:52:57] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[11:52:57] [Worker-Main-4/INFO]: Preparing spawn area: 1%
+[11:52:58] [Worker-Main-7/INFO]: Preparing spawn area: 2%
+[11:52:58] [Worker-Main-4/INFO]: Preparing spawn area: 3%
+[11:52:59] [Worker-Main-3/INFO]: Preparing spawn area: 5%
+[11:52:59] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[11:53:00] [Worker-Main-6/INFO]: Preparing spawn area: 6%
+[11:53:00] [Worker-Main-3/INFO]: Preparing spawn area: 9%
+[11:53:01] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[11:53:01] [Worker-Main-1/INFO]: Preparing spawn area: 11%
+[11:53:02] [Worker-Main-5/INFO]: Preparing spawn area: 12%
+[11:53:02] [Worker-Main-6/INFO]: Preparing spawn area: 13%
+[11:53:03] [Worker-Main-2/INFO]: Preparing spawn area: 17%
+[11:53:03] [Worker-Main-1/INFO]: Preparing spawn area: 19%
+[11:53:04] [Worker-Main-5/INFO]: Preparing spawn area: 21%
+[11:53:04] [Worker-Main-2/INFO]: Preparing spawn area: 23%
+[11:53:05] [Worker-Main-2/INFO]: Preparing spawn area: 24%
+[11:53:05] [Worker-Main-3/INFO]: Preparing spawn area: 27%
+[11:53:06] [Worker-Main-3/INFO]: Preparing spawn area: 29%
+[11:53:06] [Worker-Main-6/INFO]: Preparing spawn area: 31%
+[11:53:07] [Worker-Main-6/INFO]: Preparing spawn area: 33%
+[11:53:07] [Worker-Main-6/INFO]: Preparing spawn area: 35%
+[11:53:08] [Worker-Main-2/INFO]: Preparing spawn area: 38%
+[11:53:08] [Worker-Main-4/INFO]: Preparing spawn area: 40%
+[11:53:09] [Worker-Main-6/INFO]: Preparing spawn area: 43%
+[11:53:09] [Worker-Main-5/INFO]: Preparing spawn area: 44%
+[11:53:10] [Worker-Main-2/INFO]: Preparing spawn area: 46%
+[11:53:10] [Worker-Main-5/INFO]: Preparing spawn area: 49%
+[11:53:11] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[11:53:11] [Worker-Main-2/INFO]: Preparing spawn area: 54%
+[11:53:12] [Worker-Main-6/INFO]: Preparing spawn area: 55%
+[11:53:12] [Worker-Main-3/INFO]: Preparing spawn area: 58%
+[11:53:13] [Worker-Main-1/INFO]: Preparing spawn area: 59%
+[11:53:13] [Worker-Main-5/INFO]: Preparing spawn area: 62%
+[11:53:14] [Worker-Main-7/INFO]: Preparing spawn area: 65%
+[11:53:14] [Worker-Main-4/INFO]: Preparing spawn area: 68%
+[11:53:15] [Worker-Main-1/INFO]: Preparing spawn area: 69%
+[11:53:15] [Worker-Main-5/INFO]: Preparing spawn area: 71%
+[11:53:16] [Worker-Main-2/INFO]: Preparing spawn area: 73%
+[11:53:16] [Worker-Main-7/INFO]: Preparing spawn area: 76%
+[11:53:17] [Worker-Main-5/INFO]: Preparing spawn area: 79%
+[11:53:17] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[11:53:18] [Worker-Main-6/INFO]: Preparing spawn area: 84%
+[11:53:18] [Worker-Main-2/INFO]: Preparing spawn area: 86%
+[11:53:19] [Worker-Main-5/INFO]: Preparing spawn area: 88%
+[11:53:19] [Worker-Main-2/INFO]: Preparing spawn area: 91%
+[11:53:20] [Worker-Main-5/INFO]: Preparing spawn area: 93%
+[11:53:20] [Worker-Main-3/INFO]: Preparing spawn area: 97%
+[11:53:21] [Worker-Main-4/INFO]: Preparing spawn area: 99%
+[11:53:21] [Server thread/INFO]: Time elapsed: 27048 ms
+[11:53:21] [Server thread/INFO]: Done (45.772s)! For help, type "help"
+[12:02:25] [Server thread/INFO]: YishayRE[/192.168.15.63:51714] logged in with entity id 238 at (-50.5, 120.0, -8.5)
+[12:02:25] [Server thread/INFO]: YishayRE joined the game
+[12:03:38] [Server thread/INFO]: YishayRE lost connection: Disconnected
+[12:03:38] [Server thread/INFO]: YishayRE left the game
+[12:06:49] [Server thread/INFO]: Emm80z[/127.0.0.1:45176] logged in with entity id 615 at (-46.5, 119.0, -8.5)
+[12:06:49] [Server thread/INFO]: Emm80z joined the game
+[12:07:37] [Server thread/INFO]: Made Emm80z a server operator
+[12:07:54] [Server thread/INFO]: [Emm80z: Set own game mode to Creative Mode]
+[12:16:29] [Server thread/INFO]: JomaDm[/192.168.15.88:59852] logged in with entity id 1821 at (-43.5, 118.0, -7.5)
+[12:16:30] [Server thread/INFO]: JomaDm joined the game
+[12:19:10] [Server thread/INFO]: [Not Secure] <Emm80z> kmara pp
+[12:19:41] [Server thread/INFO]: [Not Secure] <Emm80z> kmara pp
+[12:20:21] [Server thread/INFO]: [Not Secure] <JomaDm> kmara
+[12:20:26] [Server thread/INFO]: [Not Secure] <JomaDm> si lo corre bn
+[12:22:28] [Server thread/INFO]: [Emm80z: Set own game mode to Survival Mode]
+[12:24:43] [Server thread/INFO]: JomaDm lost connection: Disconnected
+[12:24:43] [Server thread/INFO]: JomaDm left the game
+[12:28:02] [Server thread/INFO]: JomaDm[/192.168.15.88:57902] logged in with entity id 3299 at (-90.55512468514252, 127.0, 20.875948331866788)
+[12:28:02] [Server thread/INFO]: JomaDm joined the game
+[12:28:12] [Server thread/INFO]: JomaDm lost connection: Disconnected
+[12:28:12] [Server thread/INFO]: JomaDm left the game
+[12:32:02] [Server thread/INFO]: Joma_Dm[/192.168.15.88:60574] logged in with entity id 3699 at (-43.5, 120.0, 4.5)
+[12:32:02] [Server thread/INFO]: Joma_Dm joined the game
+[12:35:05] [Server thread/INFO]: [Not Secure] <Joma_Dm> @silvestre
+[12:35:09] [Server thread/INFO]: [Not Secure] <Joma_Dm> ontas
+[12:35:41] [Server thread/INFO]: Emm80z was slain by Joma_Dm
+[12:35:49] [Server thread/INFO]: Joma_Dm lost connection: Disconnected
+[12:35:49] [Server thread/INFO]: Joma_Dm left the game
+[12:42:52] [Server thread/INFO]: Emm80z has made the advancement [Stone Age]
+[12:43:02] [Server thread/INFO]: Emm80z has made the advancement [Getting an Upgrade]
+[12:45:59] [Server thread/INFO]: Emm80z has made the advancement [Monster Hunter]
+[12:48:25] [Server thread/INFO]: R[/192.168.15.36:42784] logged in with entity id 5845 at (-45.5, 122.0, 0.5)
+[12:48:25] [Server thread/INFO]: R joined the game
+[12:48:54] [Server thread/INFO]: Emm80z was slain by Zombie
+[12:49:30] [Server thread/INFO]: R has made the advancement [Stone Age]
+[12:57:45] [Server thread/INFO]: YishayRE[/192.168.15.63:51864] logged in with entity id 7663 at (-86.40746543112104, 132.0, 15.839802715422048)
+[12:57:45] [Server thread/INFO]: YishayRE joined the game
+[12:58:11] [Server thread/INFO]: R has made the advancement [Monster Hunter]
+[12:59:08] [Server thread/INFO]: YishayRE has made the advancement [Stone Age]
+[12:59:30] [Server thread/INFO]: YishayRE has made the advancement [Getting an Upgrade]
+[13:04:41] [Server thread/INFO]: R has made the advancement [Getting an Upgrade]
+[13:07:30] [Server thread/INFO]: Sebbaslml[/192.168.15.40:37642] logged in with entity id 11233 at (-37.5, 115.0, -3.5)
+[13:07:30] [Server thread/INFO]: Sebbaslml joined the game
+[13:08:28] [Server thread/INFO]: Emm80z has made the advancement [Acquire Hardware]
+[13:08:52] [Server thread/INFO]: Joma_Dm[/192.168.15.88:44754] logged in with entity id 11841 at (-87.30000001192093, 129.0, 8.513320938042328)
+[13:08:52] [Server thread/INFO]: Joma_Dm joined the game
+[13:09:33] [Server thread/INFO]: Emm80z has made the advancement [Isn't It Iron Pick]
+[13:09:43] [Server thread/INFO]: YishayRE has made the advancement [Monster Hunter]
+[13:10:49] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-91, y=131, z=-18} gt{x=-61, y=123, z=-4}
+[13:10:49] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-91, y=131, z=-18} gt{x=-61, y=124, z=-3}
+[13:10:49] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-91, y=131, z=-18} gt{x=-61, y=123, z=-4}
+[13:10:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-91, y=131, z=-18} gt{x=-62, y=123, z=-4}
+[13:10:56] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-91, y=131, z=-18} gt{x=-61, y=123, z=-4}
+[13:11:01] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-91, y=131, z=-18} gt{x=-63, y=123, z=-5}
+[13:11:01] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-91, y=131, z=-18} gt{x=-63, y=123, z=-5}
+[13:11:08] [Server thread/INFO]: R was shot by Skeleton
+[13:11:30] [Server thread/INFO]: Sebbaslml was shot by Skeleton
+[13:11:45] [Server thread/INFO]: Joma_Dm has made the advancement [Stone Age]
+[13:11:46] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-65, y=124, z=-4} gt{x=-63, y=126, z=-2}
+[13:11:47] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-65, y=124, z=-4} gt{x=-62, y=126, z=-3}
+[13:12:49] [Server thread/INFO]: Sebbaslml was shot by Skeleton
+[13:13:06] [Server thread/INFO]: Joma_Dm has made the advancement [Getting an Upgrade]
+[13:13:22] [Server thread/INFO]: Joma_Dm was slain by R
+[13:14:45] [Server thread/INFO]: Joma_Dm drowned
+[13:15:12] [Server thread/INFO]: Sebbaslml has made the advancement [Stone Age]
+[13:16:08] [Server thread/INFO]: Joma_Dm lost connection: Timed out
+[13:16:08] [Server thread/INFO]: Joma_Dm left the game
+[13:16:08] [Server thread/WARN]: handleDisconnection() called twice
+[13:19:55] [Server thread/INFO]: Joma_Dm[/192.168.15.88:39688] logged in with entity id 17232 at (-23.521684809611706, 59.30278997603624, 145.04033976016245)
+[13:19:55] [Server thread/INFO]: Joma_Dm joined the game
+[13:20:41] [Server thread/INFO]: YishayRE has made the advancement [Acquire Hardware]
+[13:21:07] [Server thread/INFO]: Joma_Dm lost connection: Disconnected
+[13:21:07] [Server thread/INFO]: Joma_Dm left the game
+[13:21:13] [Server thread/INFO]: Joma_Dm[/192.168.15.88:50358] logged in with entity id 17866 at (-38.69999998807907, 80.0, 126.30695145810431)
+[13:21:13] [Server thread/INFO]: Joma_Dm joined the game
+[13:21:19] [Server thread/INFO]: YishayRE has made the advancement [Isn't It Iron Pick]
+[13:23:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 51279ms or 1025 ticks behind
+[13:23:01] [Server thread/INFO]: Emm80z lost connection: Disconnected
+[13:23:01] [Server thread/INFO]: Emm80z left the game
+[13:23:01] [Server thread/INFO]: R lost connection: Disconnected
+[13:23:01] [Server thread/INFO]: R left the game
+[13:23:01] [Server thread/INFO]: YishayRE lost connection: Disconnected
+[13:23:01] [Server thread/INFO]: YishayRE left the game
+[13:23:01] [Server thread/INFO]: Sebbaslml lost connection: Disconnected
+[13:23:01] [Server thread/INFO]: Sebbaslml left the game
+[13:23:01] [Server thread/INFO]: Joma_Dm lost connection: Disconnected
+[13:23:01] [Server thread/INFO]: Joma_Dm left the game
+[13:23:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@45dd89a8[id=<null>,name=R,properties={},legacy=false] (/192.168.15.36:42788) lost connection: Disconnected
+[13:23:02] [Server thread/INFO]: Emm80z[/127.0.0.1:45178] logged in with entity id 18516 at (-133.6670020629887, -40.23363200604248, 34.037807748129445)
+[13:23:02] [Server thread/INFO]: Emm80z joined the game
+[13:23:02] [Server thread/INFO]: /advancement (grant|revoke)
+[13:23:02] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
+[13:23:02] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in)
+[13:23:02] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
+[13:23:02] [Server thread/INFO]: /clear [<targets>]
+[13:23:02] [Server thread/INFO]: /clone <begin> <end> <destination> [replace|masked|filtered]
+[13:23:02] [Server thread/INFO]: /data (merge|get|remove|modify)
+[13:23:02] [Server thread/INFO]: /datapack (enable|disable|list)
+[13:23:02] [Server thread/INFO]: /debug (start|stop|function)
+[13:23:02] [Server thread/INFO]: /defaultgamemode (survival|creative|adventure|spectator)
+[13:23:02] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
+[13:23:02] [Server thread/INFO]: /effect (clear|give)
+[13:23:02] [Server thread/INFO]: /me <action>
+[13:23:02] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[13:23:02] [Server thread/INFO]: /experience (add|set|query)
+[13:23:02] [Server thread/INFO]: /xp -> experience
+[13:23:02] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[13:23:02] [Server thread/INFO]: /forceload (add|remove|query)
+[13:23:02] [Server thread/INFO]: /function <name>
+[13:23:02] [Server thread/INFO]: /gamemode (survival|creative|adventure|spectator)
+[13:23:02] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
+[13:23:02] [Server thread/INFO]: /give <targets> <item> [<count>]
+[13:23:02] [Server thread/INFO]: /help [<command>]
+[13:23:02] [Server thread/INFO]: /item (replace|modify)
+[13:23:02] [Server thread/INFO]: /kick <targets> [<reason>]
+[13:23:02] [Server thread/INFO]: /kill [<targets>]
+[13:23:02] [Server thread/INFO]: /list [uuids]
+[13:23:02] [Server thread/INFO]: /locate (structure|biome|poi)
+[13:23:02] [Server thread/INFO]: /loot (replace|insert|give|spawn)
+[13:23:02] [Server thread/INFO]: /msg <targets> <message>
+[13:23:02] [Server thread/INFO]: /tell -> msg
+[13:23:02] [Server thread/INFO]: /w -> msg
+[13:23:02] [Server thread/INFO]: /particle <name> [<pos>]
+[13:23:02] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
+[13:23:02] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[13:23:02] [Server thread/INFO]: /reload
+[13:23:02] [Server thread/INFO]: /recipe (give|take)
+[13:23:02] [Server thread/INFO]: /say <message>
+[13:23:02] [Server thread/INFO]: /schedule (function|clear)
+[13:23:02] [Server thread/INFO]: /scoreboard (objectives|players)
+[13:23:02] [Server thread/INFO]: /seed
+[13:23:02] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[13:23:02] [Server thread/INFO]: /spawnpoint [<targets>]
+[13:23:02] [Server thread/INFO]: /setworldspawn [<pos>]
+[13:23:02] [Server thread/INFO]: /spectate [<target>]
+[13:23:02] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[13:23:02] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[13:23:02] [Server thread/INFO]: /summon <entity> [<pos>]
+[13:23:02] [Server thread/INFO]: /tag <targets> (add|remove|list)
+[13:23:02] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
+[13:23:02] [Server thread/INFO]: /teammsg <message>
+[13:23:02] [Server thread/INFO]: /tm -> teammsg
+[13:23:02] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
+[13:23:02] [Server thread/INFO]: /tp -> teleport
+[13:23:02] [Server thread/INFO]: /tellraw <targets> <message>
+[13:23:02] [Server thread/INFO]: /time (set|add|query)
+[13:23:02] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[13:23:02] [Server thread/INFO]: /trigger <objective> [add|set]
+[13:23:02] [Server thread/INFO]: /weather (clear|rain|thunder)
+[13:23:02] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
+[13:23:02] [Server thread/INFO]: /jfr (start|stop)
+[13:23:02] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[13:23:02] [Server thread/INFO]: /banlist [ips|players]
+[13:23:02] [Server thread/INFO]: /ban <targets> [<reason>]
+[13:23:02] [Server thread/INFO]: /deop <targets>
+[13:23:02] [Server thread/INFO]: /op <targets>
+[13:23:02] [Server thread/INFO]: /pardon <targets>
+[13:23:02] [Server thread/INFO]: /pardon-ip <target>
+[13:23:02] [Server thread/INFO]: /perf (start|stop)
+[13:23:02] [Server thread/INFO]: /save-all [flush]
+[13:23:02] [Server thread/INFO]: /save-off
+[13:23:02] [Server thread/INFO]: /save-on
+[13:23:02] [Server thread/INFO]: /setidletimeout <minutes>
+[13:23:02] [Server thread/INFO]: /stop
+[13:23:02] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[13:23:08] [Server thread/INFO]: Sebbaslml[/192.168.15.40:37644] logged in with entity id 18533 at (-80.40095535538757, 127.0, 29.30000001192093)
+[13:23:08] [Server thread/INFO]: Sebbaslml joined the game
+[13:23:09] [Server thread/INFO]: Joma_Dm[/192.168.15.88:51366] logged in with entity id 18547 at (35.48750001192093, 47.0, 193.32597836135508)
+[13:23:09] [Server thread/INFO]: Joma_Dm joined the game
+[13:24:16] [Server thread/INFO]: R[/192.168.15.36:42790] logged in with entity id 19191 at (-79.30000001192093, 58.0, 254.96781754249383)
+[13:24:16] [Server thread/INFO]: R joined the game
+[13:24:27] [Server thread/INFO]: YishayRE[/192.168.15.63:52174] logged in with entity id 19337 at (-289.0669388096862, 124.0, 349.2259552750105)
+[13:24:27] [Server thread/INFO]: YishayRE joined the game
+[13:25:48] [Server thread/INFO]: Sebbaslml has made the advancement [Monster Hunter]
+[13:26:41] [Server thread/INFO]: YishayRE has made the advancement [Ice Bucket Challenge]
+[13:26:48] [Server thread/INFO]: Sebbaslml was shot by Skeleton
+[13:29:24] [Server thread/INFO]: [Not Secure] <YishayRE> t
+[13:29:44] [Server thread/INFO]: [Not Secure] <YishayRE> -476
+[13:30:09] [Server thread/INFO]: [Not Secure] <YishayRE> 70
+[13:30:19] [Server thread/INFO]: [Not Secure] <YishayRE> 502
+[13:30:32] [Server thread/INFO]: R lost connection: Disconnected
+[13:30:32] [Server thread/INFO]: R left the game
+[13:31:37] [Server thread/INFO]: Joma_Dm lost connection: Disconnected
+[13:31:37] [Server thread/INFO]: Joma_Dm left the game
+[13:35:50] [Server thread/INFO]: R[/192.168.15.36:42796] logged in with entity id 25372 at (-71.69999998807907, 51.0, 266.94172745024446)
+[13:35:50] [Server thread/INFO]: R joined the game
+[13:39:30] [Server thread/INFO]: [Emm80z: Made R a server operator]
+[13:39:35] [Server thread/INFO]: [Emm80z: Made YishayRE a server operator]
+[13:39:39] [Server thread/INFO]: [Emm80z: Made Sebbaslml a server operator]
+[13:40:04] [Server thread/INFO]: YishayRE has made the advancement [Not Today, Thank You]
+[13:40:10] [Server thread/INFO]: Sebbaslml has made the advancement [A Seedy Place]
+[13:41:46] [Server thread/INFO]: YishayRE has made the advancement [Suit Up]
+[13:42:56] [Server thread/INFO]: [R: Teleported R to Emm80z]
+[13:42:56] [Server thread/WARN]: R moved too quickly! -59.90435015500424,-100.0,-201.9697626045869
+[13:43:18] [Server thread/INFO]: Emm80z has made the advancement [Sneak 100]
+[13:43:38] [Server thread/INFO]: Sebbaslml was slain by Zombie
+[13:44:51] [Server thread/INFO]: [Sebbaslml: Teleported Sebbaslml to -199.500000, 60.000000, 127.500000]
+[13:45:02] [Server thread/INFO]: Sebbaslml suffocated in a wall
+[13:51:51] [Server thread/INFO]: Sebbaslml was slain by Zombie
+[13:52:23] [Server thread/INFO]: [Sebbaslml: Teleported Sebbaslml to YishayRE]
+[13:52:23] [Server thread/WARN]: Sebbaslml moved too quickly! -374.1621142376636,-83.0,486.4405420094518
+[13:52:23] [Server thread/WARN]: Sebbaslml moved too quickly! -374.1621142376636,-83.0,486.4405420094518
+[13:52:54] [Server thread/INFO]: Sebbaslml has made the advancement [Acquire Hardware]
+[13:53:05] [Server thread/INFO]: [Not Secure] <YishayRE> t
+[13:53:20] [Server thread/INFO]: [Not Secure] <Emm80z> -100 -54 67
+[13:54:07] [Server thread/INFO]: R has made the advancement [Acquire Hardware]
+[13:55:03] [Server thread/INFO]: [Emm80z: Teleported Emm80z to YishayRE]
+[13:55:03] [Server thread/WARN]: Emm80z moved too quickly! -352.0903575097332,94.41999998688698,438.33039998170943
+[13:55:03] [Server thread/WARN]: Emm80z moved too quickly! -352.0903575097332,94.41999998688698,438.33039998170943
+[13:55:43] [Server thread/INFO]: R was shot by Skeleton
+[13:57:20] [Server thread/INFO]: Emm80z was slain by YishayRE
+[13:57:32] [Server thread/INFO]: [Emm80z: Teleported Emm80z to YishayRE]
+[13:58:32] [Server thread/INFO]: Sebbaslml has made the advancement [Isn't It Iron Pick]
+[13:59:40] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-466, y=88, z=530} gt{x=-466, y=86, z=529}
+[14:11:33] [Server thread/WARN]: Boat (vehicle of R) moved wrongly! 0.3380098408882759
+[14:12:18] [Server thread/INFO]: Sebbaslml lost connection: Disconnected
+[14:12:18] [Server thread/INFO]: Sebbaslml left the game
+[14:12:24] [Server thread/INFO]: R lost connection: Disconnected
+[14:12:24] [Server thread/INFO]: R left the game
+[14:12:56] [Server thread/INFO]: YishayRE lost connection: Disconnected
+[14:12:56] [Server thread/INFO]: YishayRE left the game
+[14:13:03] [Server thread/INFO]: Emm80z lost connection: Disconnected
+[14:13:03] [Server thread/INFO]: Emm80z left the game
+[14:13:21] [Server thread/INFO]: Joma_Dm[/192.168.15.88:50510] logged in with entity id 43338 at (34.41089428832572, 59.0, 243.50614726369272)
+[14:13:21] [Server thread/INFO]: Joma_Dm joined the game
+[14:14:06] [Server thread/INFO]: Joma_Dm lost connection: Disconnected
+[14:14:06] [Server thread/INFO]: Joma_Dm left the game
+[15:31:49] [Server thread/INFO]: R[/192.168.15.36:42806] logged in with entity id 43654 at (90.3125, 62.07326432466507, -998.3125)
+[15:31:49] [Server thread/INFO]: R joined the game
+[15:32:18] [Server thread/INFO]: R lost connection: Disconnected
+[15:32:18] [Server thread/INFO]: R left the game
+[15:34:57] [Server thread/INFO]: Stopping the server
+[15:34:57] [Server thread/INFO]: Stopping server
+[15:34:57] [Server thread/INFO]: Saving players
+[15:34:57] [Server thread/INFO]: Saving worlds
+[15:34:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:35:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:35:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:35:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:35:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:35:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:35:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
